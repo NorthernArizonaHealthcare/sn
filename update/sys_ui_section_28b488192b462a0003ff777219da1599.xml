@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Actual" section_id="28b488192b462a0003ff777219da1599" sys_domain="global" table="x_noahr_business_intel_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>2cb488192b462a0003ff777219da1599</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Actual" display_value="Actual" name="x_noahr_business_intel_task" sys_domain="global" view="Default view">28b488192b462a0003ff777219da1599</sys_ui_section>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>actual_travel_start</element>
+            <position>1</position>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>acb488192b462a0003ff777219da1599</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Actual" display_value="Actual" name="x_noahr_business_intel_task" sys_domain="global" view="Default view">28b488192b462a0003ff777219da1599</sys_ui_section>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_start</element>
+            <position>2</position>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>20b488192b462a0003ff777219da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Actual" display_value="Actual" name="x_noahr_business_intel_task" sys_domain="global" view="Default view">28b488192b462a0003ff777219da1599</sys_ui_section>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_end</element>
+            <position>3</position>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>a0b488192b462a0003ff777219da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Actual" display_value="Actual" name="x_noahr_business_intel_task" sys_domain="global" view="Default view">28b488192b462a0003ff777219da1599</sys_ui_section>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>24b488192b462a0003ff777219da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Actual" display_value="Actual" name="x_noahr_business_intel_task" sys_domain="global" view="Default view">28b488192b462a0003ff777219da1599</sys_ui_section>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>actual_travel_duration</element>
+            <position>5</position>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>a4b488192b462a0003ff777219da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Actual" display_value="Actual" name="x_noahr_business_intel_task" sys_domain="global" view="Default view">28b488192b462a0003ff777219da1599</sys_ui_section>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>calendar_duration</element>
+            <position>6</position>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>28b488192b462a0003ff777219da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Actual" display_value="Actual" name="x_noahr_business_intel_task" sys_domain="global" view="Default view">28b488192b462a0003ff777219da1599</sys_ui_section>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>a8b488192b462a0003ff777219da159a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Actual" display_value="Actual" name="x_noahr_business_intel_task" sys_domain="global" view="Default view">28b488192b462a0003ff777219da1599</sys_ui_section>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Actual</caption>
+            <header>false</header>
+            <name>x_noahr_business_intel_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>28b488192b462a0003ff777219da1599</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Actual</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Business Intel" source="x_noahr_bi">a974c4d52b462a0003ff777219da15ed</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Business Intel">a974c4d52b462a0003ff777219da15ed</sys_scope>
+            <sys_update_name>sys_ui_section_28b488192b462a0003ff777219da1599</sys_update_name>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

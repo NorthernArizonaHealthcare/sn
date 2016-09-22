@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <before>false</before>
+        <description>Automatically builds state flow start and end states</description>
+        <flush_cache>false</flush_cache>
+        <name>Business Intel State Flow Builder</name>
+        <run_once>false</run_once>
+        <script><![CDATA[(new global.StateFlow()).rebuildFlows("x_noahr_business_intel_request");
+(new global.StateFlow()).rebuildFlows("x_noahr_business_intel_task");]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>ak31969</sys_created_by>
+        <sys_created_on>2016-09-22 17:29:17</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>e18408192b462a0003ff777219da1579</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Intel State Flow Builder</sys_name>
+        <sys_package display_value="Business Intel" source="x_noahr_bi">a974c4d52b462a0003ff777219da15ed</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Business Intel">a974c4d52b462a0003ff777219da15ed</sys_scope>
+        <sys_update_name>sys_script_fix_e18408192b462a0003ff777219da1579</sys_update_name>
+        <sys_updated_by>ak31969</sys_updated_by>
+        <sys_updated_on>2016-09-22 17:29:17</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>

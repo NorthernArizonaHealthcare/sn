@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>ad8408192b462a0003ff777219da157a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_group">
+    <sys_user_group action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <average_daily_fte/>
+        <cost_center/>
+        <default_assignee/>
+        <description/>
+        <email/>
+        <exclude_manager>false</exclude_manager>
+        <hourly_rate>0</hourly_rate>
+        <include_members>false</include_members>
+        <manager/>
+        <name>Business Intel Dispatchers</name>
+        <parent/>
+        <points>0</points>
+        <roles/>
+        <source/>
+        <sys_created_by>ak31969</sys_created_by>
+        <sys_created_on>2016-09-22 17:29:17</sys_created_on>
+        <sys_id>ad8408192b462a0003ff777219da157a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>ak31969</sys_updated_by>
+        <sys_updated_on>2016-09-22 17:29:17</sys_updated_on>
+        <type>e98408192b462a0003ff777219da1579</type>
+        <u_co_manager/>
+        <u_director/>
+        <u_senior_leader/>
+        <vendors/>
+    </sys_user_group>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>ak31969</sys_created_by>
+        <sys_created_on>2016-09-22 17:30:11</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>f6b4c8192b462a0003ff777219da1514</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Intel Dispatchers</sys_name>
+        <sys_package display_value="Business Intel" source="x_noahr_bi">a974c4d52b462a0003ff777219da15ed</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Business Intel">a974c4d52b462a0003ff777219da15ed</sys_scope>
+        <sys_update_name>sys_metadata_link_f6b4c8192b462a0003ff777219da1514</sys_update_name>
+        <sys_updated_by>ak31969</sys_updated_by>
+        <sys_updated_on>2016-09-22 17:30:11</sys_updated_on>
+        <tablename>sys_user_group</tablename>
+    </sys_metadata_link>
+</record_update>

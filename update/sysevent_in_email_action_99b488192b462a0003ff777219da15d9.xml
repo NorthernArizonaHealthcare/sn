@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_in_email_action">
+    <sysevent_in_email_action action="INSERT_OR_UPDATE">
+        <action>record_action</action>
+        <active>true</active>
+        <assignment_operator/>
+        <condition_script>(new sn_sm.SMConfiguration()).isEnabled("business_intel", "inbound_email", false)</condition_script>
+        <description>All update emails will be added in the work notes</description>
+        <event_name>email.read</event_name>
+        <filter_condition/>
+        <from/>
+        <name>Update Business Intel Request</name>
+        <order>70</order>
+        <reply_email/>
+        <required_roles/>
+        <script><![CDATA[if (current.getTableName() == "x_noahr_business_intel_request") {
+	var bodyText = email.body_text;
+	if (!bodyText)
+		bodyText = email.body_html;
+	current.work_notes = "Reply from: " + email.origemail + "\n\n" + email.subject + "\n\n" + bodyText;	
+	current.update();
+}]]></script>
+        <stop_processing>true</stop_processing>
+        <sys_class_name>sysevent_in_email_action</sys_class_name>
+        <sys_created_by>ak31969</sys_created_by>
+        <sys_created_on>2016-09-22 17:30:05</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>99b488192b462a0003ff777219da15d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Business Intel Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Business Intel" source="x_noahr_bi">a974c4d52b462a0003ff777219da15ed</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Business Intel">a974c4d52b462a0003ff777219da15ed</sys_scope>
+        <sys_update_name>sysevent_in_email_action_99b488192b462a0003ff777219da15d9</sys_update_name>
+        <sys_updated_by>ak31969</sys_updated_by>
+        <sys_updated_on>2016-09-22 17:30:05</sys_updated_on>
+        <table>x_noahr_business_intel_request</table>
+        <template/>
+        <type>reply</type>
+    </sysevent_in_email_action>
+</record_update>

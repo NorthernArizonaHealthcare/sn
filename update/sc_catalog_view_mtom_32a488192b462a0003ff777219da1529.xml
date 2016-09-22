@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Business Intel Catalog">a2a488192b462a0003ff777219da1528</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>ak31969</sys_created_by>
+        <sys_created_on>2016-09-22 17:29:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>32a488192b462a0003ff777219da1529</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business Intel Catalog.catalog_business_intel_catalog</sys_name>
+        <sys_package display_value="Business Intel" source="x_noahr_bi">a974c4d52b462a0003ff777219da15ed</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_business_intel_catalog">7ea488192b462a0003ff777219da1528</sys_portal_page>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Business Intel">a974c4d52b462a0003ff777219da15ed</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_32a488192b462a0003ff777219da1529</sys_update_name>
+        <sys_updated_by>ak31969</sys_updated_by>
+        <sys_updated_on>2016-09-22 17:29:54</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

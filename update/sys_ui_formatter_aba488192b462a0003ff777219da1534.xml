@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <formatter>process_flow.xml</formatter>
+        <name>Process Flow</name>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>ak31969</sys_created_by>
+        <sys_created_on>2016-09-22 17:29:58</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>aba488192b462a0003ff777219da1534</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Process Flow</sys_name>
+        <sys_package display_value="Business Intel" source="x_noahr_bi">a974c4d52b462a0003ff777219da15ed</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Business Intel">a974c4d52b462a0003ff777219da15ed</sys_scope>
+        <sys_update_name>sys_ui_formatter_aba488192b462a0003ff777219da1534</sys_update_name>
+        <sys_updated_by>ak31969</sys_updated_by>
+        <sys_updated_on>2016-09-22 17:29:58</sys_updated_on>
+        <table>x_noahr_business_intel_task</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+</record_update>

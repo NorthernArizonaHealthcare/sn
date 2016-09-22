@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_noahr_business_intel_task" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Business Intel Task - Default view" name="x_noahr_business_intel_task" related_list="NULL" sys_domain="global" view="Default view">a0b488192b462a0003ff777219da159b</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>task_sla.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>a8b488192b462a0003ff777219da159c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Business Intel Task - Default view" name="x_noahr_business_intel_task" related_list="NULL" sys_domain="global" view="Default view">a0b488192b462a0003ff777219da159b</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>task_ci.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>acb488192b462a0003ff777219da159b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Business Intel Task - Default view" name="x_noahr_business_intel_task" related_list="NULL" sys_domain="global" view="Default view">a0b488192b462a0003ff777219da159b</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>sm_part_requirement.service_order_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>e0b488192b462a0003ff777219da159d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Business Intel Task - Default view" name="x_noahr_business_intel_task" related_list="NULL" sys_domain="global" view="Default view">a0b488192b462a0003ff777219da159b</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>alm_transfer_order.service_order_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>64b488192b462a0003ff777219da159b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Business Intel Task - Default view" name="x_noahr_business_intel_task" related_list="NULL" sys_domain="global" view="Default view">a0b488192b462a0003ff777219da159b</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>sm_asset_usage.service_order_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>24b488192b462a0003ff777219da159c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Business Intel Task - Default view" name="x_noahr_business_intel_task" related_list="NULL" sys_domain="global" view="Default view">a0b488192b462a0003ff777219da159b</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>sm_m2m_task_dependency.downstream_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>28b488192b462a0003ff777219da159b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Business Intel Task - Default view" name="x_noahr_business_intel_task" related_list="NULL" sys_domain="global" view="Default view">a0b488192b462a0003ff777219da159b</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>sm_m2m_task_dependency.upstream_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>e4b488192b462a0003ff777219da159c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Business Intel Task - Default view" name="x_noahr_business_intel_task" related_list="NULL" sys_domain="global" view="Default view">a0b488192b462a0003ff777219da159b</list_id>
+            <order_by/>
+            <position>7</position>
+            <related_list>sm_incidentals.parent_task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>e8b488192b462a0003ff777219da159b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Business Intel Task - Default view" name="x_noahr_business_intel_task" related_list="NULL" sys_domain="global" view="Default view">a0b488192b462a0003ff777219da159b</list_id>
+            <order_by/>
+            <position>8</position>
+            <related_list>sm_m2m_task_contract.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>6cb488192b462a0003ff777219da159c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Business Intel Task - Default view" name="x_noahr_business_intel_task" related_list="NULL" sys_domain="global" view="Default view">a0b488192b462a0003ff777219da159b</list_id>
+            <order_by/>
+            <position>9</position>
+            <related_list>REL:e8675c6947232100158b949b6c9a71db</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>60b488192b462a0003ff777219da159c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Business Intel Task - Default view" name="x_noahr_business_intel_task" related_list="NULL" sys_domain="global" view="Default view">a0b488192b462a0003ff777219da159b</list_id>
+            <order_by/>
+            <position>10</position>
+            <related_list>task_activity.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_id>20b488192b462a0003ff777219da159d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Business Intel Task - Default view</calculated_name>
+            <filter/>
+            <name>x_noahr_business_intel_task</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>ak31969</sys_created_by>
+            <sys_created_on>2016-09-22 17:30:02</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>a0b488192b462a0003ff777219da159b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Business Intel Task - Default view</sys_name>
+            <sys_package display_value="Business Intel" source="x_noahr_bi">a974c4d52b462a0003ff777219da15ed</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Business Intel">a974c4d52b462a0003ff777219da15ed</sys_scope>
+            <sys_update_name>sys_ui_related_x_noahr_business_intel_task_null</sys_update_name>
+            <sys_updated_by>ak31969</sys_updated_by>
+            <sys_updated_on>2016-09-22 17:30:02</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
